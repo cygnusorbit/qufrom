@@ -1,0 +1,10 @@
+# macOS system files
+.DS_Store
+
+# Docker data/volumes (if any are saved locally)
+docker-data/
+
+# IDE files
+.vscode/
+.idea/
+
